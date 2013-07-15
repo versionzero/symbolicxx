@@ -64,14 +64,14 @@ The developed system SymbolicC++ includes the following abstract data types (cla
 
 The advantages of SymbolicC++ are as follows:
 
-Object-oriented design and proper handling of basic and abstract data types.
-The system is operating system independent, i.e. for all operating systems powerful C++ compilers are available.
-The user is provided with the source code.
-New classes (abstract data types) can easily be added.
-The ANSI C++ standard is taken into account.
-The user only needs to learn C++ to apply the computer algebra system.
-Assembler code can easily be added to run on a specific CPU.
-Member functions and type conversion operators provide a symbolic-numeric interface
-The classes (abstract data types) are included in a header file and can be provided in any C++ program by giving the command #include "ADT.h" at the beginning of the program.
-The classes can be linked with Parallel Virtual Machine (PVM).
-Standard Template Library can be used with SymbolicC++.
+* Object-oriented design and proper handling of basic and abstract data types.
+* The system is operating system independent, i.e. for all operating systems powerful C++ compilers are available.
+* The user is provided with the source code.
+* New classes (abstract data types) can easily be added.
+* The ANSI C++ standard is taken into account.
+* The user only needs to learn C++ to apply the computer algebra system.
+* Assembler code can easily be added to run on a specific CPU.
+* Member functions and type conversion operators provide a symbolic-numeric interface
+* The classes (abstract data types) are included in a header file and can be provided in any C++ program by giving the command #include "ADT.h" at the beginning of the program.
+* The classes can be linked with Parallel Virtual Machine (PVM).
+* Standard Template Library can be used with SymbolicC++.
