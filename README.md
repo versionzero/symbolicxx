@@ -34,14 +34,14 @@ at the beginning of the program.
 
 For the realization of this concept we apply the following features of C++:
 
-*The class concept
-*overloading of operators
-*overloading of functions
-*inheritance of classes
-*virtual functions
-*function templates
-*class templates
-*Standard Template Library
+* The class concept
+* overloading of operators
+* overloading of functions
+* inheritance of classes
+* virtual functions
+* function templates
+* class templates
+* Standard Template Library
 
 The developed system SymbolicC++ includes the following abstract data types (classes):
 
